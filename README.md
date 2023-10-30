@@ -1,4 +1,4 @@
-# CopeNotes
+# MinuteMailer
 
 This is simple application where you can create messages and register subscribers. After every one minute, every subscriber will receive a unique message on email. Once a subscriber has received all messages, they will not receive any more.
 
